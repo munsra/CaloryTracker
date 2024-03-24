@@ -1,0 +1,6 @@
+
+kkotlin:S107e"HThis function has 11 parameters, which is greater than the 7 authorized.(ë˜¥Çúÿÿÿÿ8š€Ü’ä1
+Rkotlin:S1172Ì"2Use "_" instead of these unused lambda parameters.(·–´ª8›€Ü’ä1
+Rkotlin:S1172Í"2Use "_" instead of these unused lambda parameters.(ÌãÙÓ8›€Ü’ä1
+9kotlin:S1128"Remove this unused import.(™òæÜ8ž€Ü’ä1
+ykotlin:S100e"VRename function "_SearchScreen" to match the regular expression ^[a-zA-Z][a-zA-Z0-9]*$(ë˜¥Çúÿÿÿÿ8ž€Ü’ä1
